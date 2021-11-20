@@ -358,7 +358,7 @@
   .header__menu.active {
     top: 0;
  }
-  .header__menu .header__top-lang-item {
+  .header__menu .header__top-lang-item{
     padding: 7px 10px 7px 10px;
     display: inline-flex;
     margin-left: -10px;
