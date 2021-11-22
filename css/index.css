@@ -382,3 +382,11 @@
     padding: 12px 0;
  }
 }
+@media only screen and (max-width: 760px){
+  .swiper-pagination{
+    display: none;
+  }
+  .arrows{
+    bottom: 150px;
+  }
+}
